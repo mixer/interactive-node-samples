@@ -1,0 +1,15 @@
+{
+  "name": "minimal_game_client",
+  "version": "1.0.0",
+  "description": "A minimal game client sample for Mixer",
+  "scripts": {
+    "start": "node minimal_game_client.js"
+  },
+  "author": "Mike Blouin <mb@xbox.com>",
+  "license": "MIT",
+  "dependencies": {
+    "beam-interactive-node2": "^2.4.0",
+    "mixer-shortcode-oauth": "^1.0.2",
+    "ws": "^3.3.3"
+  }
+}
