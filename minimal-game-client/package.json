@@ -8,7 +8,7 @@
   "author": "Mike Blouin <mb@xbox.com>",
   "license": "MIT",
   "dependencies": {
-    "beam-interactive-node2": "^2.4.0",
+    "@mixer/interactive-node": "^2.9.0",
     "mixer-shortcode-oauth": "^1.0.2",
     "ws": "^3.3.3"
   }

@@ -1,4 +1,4 @@
-const mixer = require('beam-interactive-node2');
+const mixer = require('@mixer/interactive-node');
 const auth = require('mixer-shortcode-oauth');
 
 // Place your app info in mixerauth.json, schema is:
